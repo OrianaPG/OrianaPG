@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Oriana (she/her)
+# Hi there 👋🏻, I'm Oriana (she/her)
 
 ## A beginner frontend developer from Argentina
 
