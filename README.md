@@ -1,4 +1,4 @@
-# Hi there, I'm Oriana 👋🏻
+<p align="center"> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Oriana+%F0%9F%91%8B%F0%9F%8F%BB" alt="Hi there, I'm Oriana 👋🏻"/> </a> </p>
 
 ### I'm a beginner frontend developer from Argentina :argentina:
 
