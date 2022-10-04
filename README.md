@@ -1,6 +1,6 @@
 # Hi there, I'm Oriana 👋🏻
 
-**I'm a beginner frontend developer from Argentina** :argentina:
+### I'm a beginner frontend developer from Argentina :argentina:
 
 Here are some things about me:
 
