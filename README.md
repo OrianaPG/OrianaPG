@@ -5,7 +5,7 @@
 
 ### I'm a beginner frontend developer from Argentina :argentina:
 
-Here are some things about me:
+#### Here are some things about me:
 
 - :seedling: I’m currently learning **HTML**, **CSS**, and **C++**.
 - :computer: I'm working on **small projects** to better understand **CSS flexbox and grid**.
@@ -13,21 +13,10 @@ Here are some things about me:
 - :blue_heart: Fun fact: I looove the Sonic Adventure soundtrack (and the game, of course), it keeps me productive!
 - :globe_with_meridians: We can **connect** on <a href="https://www.linkedin.com/in/orianapg/">**LinkedIn**</a> :)
 
-### Languages and Tools:
+#### Languages and Tools:
+
 <p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,html,css,figma,ps" />
   </a>
 </p>
