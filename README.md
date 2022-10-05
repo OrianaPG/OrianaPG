@@ -13,7 +13,7 @@
 - :blue_heart: Fun fact: I looove the Sonic Adventure soundtrack (and the game, of course), it keeps me productive!
 - :globe_with_meridians: We can **connect** on <a href="https://www.linkedin.com/in/orianapg/">**LinkedIn**</a> :)
 
-#### Languages and Tools:
+#### These are the languages and tools I use:
 
 <p align="left">
   <a href="https://skillicons.dev">
