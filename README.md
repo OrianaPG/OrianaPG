@@ -14,8 +14,4 @@
 
 #### These are the languages and tools I use:
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,html,css,js,ts,figma,ps" />
-  </a>
-</p>
+![My skills](https://skillicons.dev/icons?i=cpp,html,css,js,ts,figma,ps)
