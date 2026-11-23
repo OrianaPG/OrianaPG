@@ -16,6 +16,7 @@
 - [piso 15 sky bar](https://piso15skybar.com.ar) · next.js, rest menu api
 - [bulles champagne bar](https://bulles.com.ar) · next.js, rest menu api
 - [hygros humidity systems](https://hygrossystems.com) · next.js
+- [revista bloom](https://revistabloom.com.ar/) · astro
 - [lore gandini](https://loregandini.com.ar) · astro
 
 #### languages and tools:
